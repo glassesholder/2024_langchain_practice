@@ -1,0 +1,11 @@
+# 가상환경
+venv
+
+# 환경변수
+.env
+
+# 파일 자료
+pdf/book.pdf
+
+# 벡터스토어
+faiss_data
